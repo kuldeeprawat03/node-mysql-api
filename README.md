@@ -1,1 +1,1 @@
-# node-mysql-api
+# Node JS Auth API using mysqll DB
